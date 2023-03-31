@@ -29,3 +29,7 @@ Este projeto está sob a licença MIT.
 
 # Referências
 <a href="https://www.youtube.com/watch?v=94eby0vJPyQ&t=522s">video no youtube</a>
+
+# Participantes
+- Luan Jardim
+- Maria Eduarda Neres
